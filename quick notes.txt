@@ -1,0 +1,13 @@
+
+Collaborative filtering 
+what is it, use cases , limitations 
+
+
+python focus on strings, lists and dicts
+boto3
+
+remove any five columns from the csv files using the pandas library
+remove: device model, os_name and app_code, error_id and is_child
+change: country_name as country and region_name as region
+episode value should be changed to sony episode 
+monetory column => AVOD - advertisemnet vod and svod - service vod
