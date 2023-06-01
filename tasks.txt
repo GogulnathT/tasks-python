@@ -1,0 +1,11 @@
+
+Create a python to read a file and save it in another location
+create a access key and secret key
+
+
+
+remove any five columns from the csv files using the pandas library
+remove: device model, os_name and app_code, error_id and is_child
+change: country_name as country and region_name as region
+episode value should be changed to sony episode 
+monetory column => AVOD - advertisemnet vod and svod - service vod
